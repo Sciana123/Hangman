@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\classes",
+    "\\build\\classes\\javabean",
+    "\\build\\classes\\manager",
+    "\\build\\classes\\servlet",
+    "\\src",
+    "\\src\\servlet",
+    "\\WebContent",
+    "\\WebContent\\WEB-INF",
+    "\\WebContent\\WEB-INF\\lib"
+  ],
+  "SelectedNode": "\\build\\classes\\javabean\\GameDictionary.class",
+  "PreviewInSolutionExplorer": false
+}
